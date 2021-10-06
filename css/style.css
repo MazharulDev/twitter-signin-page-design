@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-top: 0;
+
+}
+.header{
+    background-image: url(../img/bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    
+    
+}
+.header_primary{
+    margin-left: 55%;
+    margin-top: 
+}
+.logo img{
+
+    margin-top: 4rem;
+}
+.heading_text h1{
+    color: #D9D9D9;
+    margin-left: 1rem;
+    margin-top: 2rem;
+    font-size: 4.5rem;
+    font-family: sans-serif;
+}
+.h2 h2{
+    color: #D9D9D9;
+    margin-left: 1rem;
+    margin-top: 2rem;
+    font-size: 2.5rem;
+}
+
+
+.btn1{
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
+.btn1 input{
+    background-image: url(../img/gbtn.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    border-radius: 5rem;
+    color: #6e6565;
+    padding: .8rem 5.5rem;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    transition: all .5s ease;
+    
+
+}
+.btn1 input:hover{
+    background-color: #bbb9b9;
+}
+.btn2{
+    margin-left: 1rem;
+    margin-top: 1.5rem;
+}
+.btn2 input{
+    background-image: url(../img/abtn.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    border-radius: 5rem;
+    color: #443f3f;
+    padding: .8rem 6rem;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    transition: all .5s ease;
+    
+
+}
+.btn2 input:hover{
+    background-color: #bbb9b9;
+}
+.btn3{
+    margin-left: 1rem;
+    margin-top: 1.5rem;
+}
+.btn3 input{
+
+    border-radius: 5rem;
+    color: #443f3f;
+    padding: .8rem 4rem;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    transition: all .5s ease;
+    
+
+}
+.btn3 input:hover{
+    background-color: #bbb9b9;
+}
+.para_text{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.para_text p{
+    color: #5c5555;
+    font-size: 14px;
+    
+    
+}
+.para_text a{
+    text-decoration: none;
+    color: #0359E1;
+}
+.para_text a:hover{
+    text-decoration: underline;
+}
+.a_text{
+    margin-left: 1rem;
+    margin-top: 1.5rem;
+}
+.a_text p{
+    color: #fff;
+
+}
+.a_text a{
+    color: #0359E1;
+    text-decoration: none;
+}
+.footer{
+    background-color: #000;
+    height: 4rem;
+    
+}
+.footer ul{
+    margin-left: 1.2rem;
+}
+.footer li{
+    float: left;
+    margin-left: 1.1rem;
+    font-size: .8rem;
+    
+}
+.footer li a{
+    text-decoration: none;
+    color: #9e9898;
+    
+}
+.footer ul li a:hover{
+    text-decoration: underline;
+}
+.footer p{
+    color: #9e9898;
+    text-align: center;
+    margin-top: 1rem;
+    font-size: .9rem;
+}
